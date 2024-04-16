@@ -1,0 +1,25 @@
+.student-container {
+    position: relative; 
+}
+
+.student {
+    position: absolute;
+    top: 10px;
+    left: 400px; 
+}
+.insta-container {
+    position: relative; 
+}
+
+.insta {
+    position: absolute;
+    top: 250px;
+    left: 10px; 
+}
+.text {
+    text-decoration: underline;
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+}
